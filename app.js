@@ -22,27 +22,27 @@ app.get("/bacheca", (req,res) => {
      const products = [
         {titolo: "Ciambellone alla crema",
             contenuto : "Goloso ciambellone farcito di crema fatta in casa",
-            immagine : "public/images/ciambellone.jpeg",
+            immagine : "images/ciambellone.jpeg",
             tags : ["ciambella","crema","dolce"]
         },
         {titolo: "Cracker alla Barbabietola",
             contenuto : "6 Pacchetti di crackers alla farina di barbabietola",
-            immagine : "public/images/cracker_barbabietola.jpeg",
+            immagine : "images/cracker_barbabietola.jpeg",
             tags : ["salutare","cracker","barbabietola"]
         },
         {titolo: "Pane dolce fritto",
             contenuto : "Pane fresco fritto in olio di girasole e zuccherato",
-            immagine : "public/images/pane_fritto_dolce.jpeg",
+            immagine : "images/pane_fritto_dolce.jpeg",
             tags : ["pane","fritto","carboidrati"]
         },
         {titolo : "Pasta alla barbabietola",
             contenuto : "Pasta trafilata al bronzo con farina di barbabietola",
-            immagine : "public/images/pasta_barbabietola.jpeg",
+            immagine : "images/pasta_barbabietola.jpeg",
             tags : ["salutare", "pasta","barbabietola"]
         },
         {titolo : "Torta paesana",
             contenuto : "Tipica torta fatta in casa",
-            immagine : "public/images/torta_paesana.jpeg",
+            immagine : "images/torta_paesana.jpeg",
             tags : ["dolce", "torta", "tipica"]
         }
     ]
