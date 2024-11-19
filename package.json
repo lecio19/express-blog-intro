@@ -1,14 +1,15 @@
 {
-    "name": "express-blog-intro",
-    "version": "1.0.0",
-    "main": "app.js",
-    "scripts": {
-      "start": "node app.js",
-      "dev": "node --watch app.js"
-    },
-    "keywords": [],
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.21.1"
-    }
-  }
+  "name": "express-blog-into",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
